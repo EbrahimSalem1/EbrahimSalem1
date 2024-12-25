@@ -1,7 +1,7 @@
 ### Hello My Name Is Ebrahim Salem 👋
 
 # 💫 About Me:
-👨‍🏫  Software Engineer in Test (Manual - Automation)
+👨‍🏫  Software Engineer in Test (Automation)
 <br>
 <br>📃 ISTQB Certified Tester</br>
 <br>🌍  Based in Cairo, Egypt<br>
